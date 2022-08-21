@@ -1,0 +1,5 @@
+bitcoin==1.1.42
+Faker==14.0.0
+pyshorteners==1.0.1
+pytube==12.1.0
+requests==2.28.1
